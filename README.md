@@ -53,9 +53,7 @@ git push origin feature-branch
 ```
 github101/
 ├── README.md
-├── src/
-├── docs/
-└── examples/
+└── test.txt
 ```
 
 ## Contributing
